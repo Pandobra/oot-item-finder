@@ -9,7 +9,7 @@ const Completed = ({checks, completedArray, func}) => {
     <div className="content">{completedArray.map((locs, index) => (
       <h2
       key={index}>
-        <img src={(checks[locs]["img"])} className={"pic"} alt="" />
+        <img src={process.env.PUBLIC_URL + (checks[locs]["img"])} className={"pic"} alt="" />
         <div>
          {checks[locs]["title"]} 
          <h4 className="contents">{checks[locs]["content"]}</h4>
