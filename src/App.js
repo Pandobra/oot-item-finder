@@ -4,7 +4,6 @@ import { Information } from "./Information";
 import Items from "./Items";
 import Completed from "./Completed";
 import Sidebar from "./Sidebar";
-import { isCompositeComponent } from "react-dom/test-utils";
 function App() {
 
 const [stick, setStick] = useState(false);
