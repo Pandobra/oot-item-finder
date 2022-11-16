@@ -1,8 +1,8 @@
 {
   "name": "oot-check-finder",
   "version": "0.1.0",
+  "homepage":"https://Pandobra.github.io/oot-item-finder",
   "private": true,
-  "homepage": "https://pandobra.github.io/oot-item-finder/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
