@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Pandobra/oot-item-finder/static/css/main.7b793628.css",
-    "main.js": "/Pandobra/oot-item-finder/static/js/main.0087d6f5.js",
-    "static/js/787.c3c2df40.chunk.js": "/Pandobra/oot-item-finder/static/js/787.c3c2df40.chunk.js",
-    "index.html": "/Pandobra/oot-item-finder/index.html",
-    "main.7b793628.css.map": "/Pandobra/oot-item-finder/static/css/main.7b793628.css.map",
-    "main.0087d6f5.js.map": "/Pandobra/oot-item-finder/static/js/main.0087d6f5.js.map",
-    "787.c3c2df40.chunk.js.map": "/Pandobra/oot-item-finder/static/js/787.c3c2df40.chunk.js.map"
+    "main.css": "/oot-item-finder/static/css/main.7b793628.css",
+    "main.js": "/oot-item-finder/static/js/main.f7d3c0d0.js",
+    "static/js/787.c3c2df40.chunk.js": "/oot-item-finder/static/js/787.c3c2df40.chunk.js",
+    "index.html": "/oot-item-finder/index.html",
+    "main.7b793628.css.map": "/oot-item-finder/static/css/main.7b793628.css.map",
+    "main.f7d3c0d0.js.map": "/oot-item-finder/static/js/main.f7d3c0d0.js.map",
+    "787.c3c2df40.chunk.js.map": "/oot-item-finder/static/js/787.c3c2df40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b793628.css",
-    "static/js/main.0087d6f5.js"
+    "static/js/main.f7d3c0d0.js"
   ]
 }
