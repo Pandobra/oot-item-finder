@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/oot-item-finder/static/css/main.8986ae0a.css",
-    "main.js": "/oot-item-finder/static/js/main.d46d9994.js",
+    "main.js": "/oot-item-finder/static/js/main.a86a0bcb.js",
     "static/js/787.c3c2df40.chunk.js": "/oot-item-finder/static/js/787.c3c2df40.chunk.js",
     "index.html": "/oot-item-finder/index.html",
     "main.8986ae0a.css.map": "/oot-item-finder/static/css/main.8986ae0a.css.map",
-    "main.d46d9994.js.map": "/oot-item-finder/static/js/main.d46d9994.js.map",
+    "main.a86a0bcb.js.map": "/oot-item-finder/static/js/main.a86a0bcb.js.map",
     "787.c3c2df40.chunk.js.map": "/oot-item-finder/static/js/787.c3c2df40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8986ae0a.css",
-    "static/js/main.d46d9994.js"
+    "static/js/main.a86a0bcb.js"
   ]
 }
